@@ -1,0 +1,1 @@
+O adaptador Java é um padrão de projeto estrutural que permite a colaboração entre objetos incompatíveis. Ele atua como um wrapper entre dois objetos, capturando chamadas para um objeto e as deixando reconhecíveis para o segundo objeto
